@@ -1,0 +1,13 @@
+#include<stdio.h>
+Int main()
+{
+Int i,n,k;
+Printf ("enter number of values\n");
+Scanf ("%d",&n);
+Printf("enter the values \n");
+Scanf("%d",&k);
+For(i=0;i<=0;i++);
+If(i%k=0)
+Printf("%d\t",i);
+Return 0;
+}
