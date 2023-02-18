@@ -1,0 +1,10 @@
+#include<stido.h>
+Int main()
+{
+Int i,n;
+Printf("enter a number");
+Scanf("%d",&n);
+For(i=1;i<=10;i++);
+Printf("%d*%d=%d \n",n,i,n*i);
+Return 0;
+}
