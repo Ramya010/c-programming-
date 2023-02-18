@@ -1,0 +1,13 @@
+#include<studio.h>
+Int main()
+{
+Int i,n,fact=1;
+Printf("enter a number\n");
+Scanf("%d",&n);
+For(i=1;i<=n;i++);
+{
+Fact=fact*1;
+}
+Printf(" factorial is %d\n",fact);
+Return 0;
+}
